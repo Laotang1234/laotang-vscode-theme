@@ -1,0 +1,28 @@
+{
+	"name": "laotang-theme",
+	"displayName": "laotang-theme",
+	"description": "老汤御用主题",
+	"version": "1.0.0",
+	"publisher": "Laotang1234",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"repository": "https://github.com/Laotang1234/laotang-vscode-theme",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "laotang dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/laotang-dark-color-theme.json"
+			}
+		]
+	},
+	"license": "MIT",
+	"__metadata": {
+		"installedTimestamp": 1662169335309,
+		"isApplicationScoped": false
+	}
+}
