@@ -1,6 +1,6 @@
 ## 老汤御用 VSCode 主题
 
-![](./icon.png)
+![](./logo.png)
 
 
 
